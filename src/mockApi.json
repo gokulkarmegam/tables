@@ -1,0 +1,460 @@
+{
+    "pagination": {
+      "total_records": 50,
+      "current_page": 1,
+      "per_page": 10
+    },
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "marks": {
+          "maths": 85,
+          "science": 90,
+          "english": 88
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "marks": {
+          "maths": 78,
+          "science": 82,
+          "english": 79
+        }
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "marks": {
+          "maths": 92,
+          "science": 88,
+          "english": 95
+        }
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "marks": {
+          "maths": 80,
+          "science": 85,
+          "english": 82
+        }
+      },
+      {
+        "id": 5,
+        "name": "Emily Davis",
+        "marks": {
+          "maths": 75,
+          "science": 79,
+          "english": 77
+        }
+      },
+      {
+        "id": 6,
+        "name": "David Wilson",
+        "marks": {
+          "maths": 88,
+          "science": 90,
+          "english": 87
+        }
+      },
+      {
+        "id": 7,
+        "name": "Sophia Martinez",
+        "marks": {
+          "maths": 93,
+          "science": 94,
+          "english": 91
+        }
+      },
+      {
+        "id": 8,
+        "name": "James Taylor",
+        "marks": {
+          "maths": 79,
+          "science": 83,
+          "english": 80
+        }
+      },
+      {
+        "id": 9,
+        "name": "Olivia Garcia",
+        "marks": {
+          "maths": 87,
+          "science": 89,
+          "english": 85
+        }
+      },
+      {
+        "id": 10,
+        "name": "William Rodriguez",
+        "marks": {
+          "maths": 91,
+          "science": 92,
+          "english": 90
+        }
+      },
+      {
+        "id": 11,
+        "name": "Liam Anderson",
+        "marks": {
+          "maths": 85,
+          "science": 86,
+          "english": 88
+        }
+      },
+      {
+        "id": 12,
+        "name": "Emma White",
+        "marks": {
+          "maths": 82,
+          "science": 85,
+          "english": 84
+        }
+      },
+      {
+        "id": 13,
+        "name": "Noah Harris",
+        "marks": {
+          "maths": 88,
+          "science": 90,
+          "english": 87
+        }
+      },
+      {
+        "id": 14,
+        "name": "Ava Martin",
+        "marks": {
+          "maths": 90,
+          "science": 88,
+          "english": 91
+        }
+      },
+      {
+        "id": 15,
+        "name": "Ethan Thompson",
+        "marks": {
+          "maths": 78,
+          "science": 82,
+          "english": 80
+        }
+      },
+      {
+        "id": 16,
+        "name": "Isabella Hall",
+        "marks": {
+          "maths": 83,
+          "science": 87,
+          "english": 85
+        }
+      },
+      {
+        "id": 17,
+        "name": "Mason King",
+        "marks": {
+          "maths": 91,
+          "science": 92,
+          "english": 90
+        }
+      },
+      {
+        "id": 18,
+        "name": "Mia Adams",
+        "marks": {
+          "maths": 85,
+          "science": 84,
+          "english": 88
+        }
+      },
+      {
+        "id": 19,
+        "name": "Jacob Scott",
+        "marks": {
+          "maths": 79,
+          "science": 81,
+          "english": 80
+        }
+      },
+      {
+        "id": 20,
+        "name": "Charlotte Clark",
+        "marks": {
+          "maths": 87,
+          "science": 89,
+          "english": 86
+        }
+      },
+      {
+        "id": 21,
+        "name": "William Hill",
+        "marks": {
+          "maths": 92,
+          "science": 94,
+          "english": 90
+        }
+      },
+      {
+        "id": 22,
+        "name": "Amelia Lewis",
+        "marks": {
+          "maths": 76,
+          "science": 78,
+          "english": 75
+        }
+      },
+      {
+        "id": 23,
+        "name": "Daniel Turner",
+        "marks": {
+          "maths": 84,
+          "science": 88,
+          "english": 85
+        }
+      },
+      {
+        "id": 24,
+        "name": "Sophia Baker",
+        "marks": {
+          "maths": 89,
+          "science": 90,
+          "english": 88
+        }
+      },
+      {
+        "id": 25,
+        "name": "Alexander Green",
+        "marks": {
+          "maths": 85,
+          "science": 83,
+          "english": 87
+        }
+      },
+      {
+        "id": 26,
+        "name": "Ava Mitchell",
+        "marks": {
+          "maths": 93,
+          "science": 95,
+          "english": 92
+        }
+      },
+      {
+        "id": 27,
+        "name": "Logan Carter",
+        "marks": {
+          "maths": 77,
+          "science": 80,
+          "english": 78
+        }
+      },
+      {
+        "id": 28,
+        "name": "Ella Adams",
+        "marks": {
+          "maths": 86,
+          "science": 88,
+          "english": 85
+        }
+      },
+      {
+        "id": 29,
+        "name": "Oliver Harris",
+        "marks": {
+          "maths": 90,
+          "science": 91,
+          "english": 88
+        }
+      },
+      {
+        "id": 30,
+        "name": "Grace Wilson",
+        "marks": {
+          "maths": 82,
+          "science": 85,
+          "english": 81
+        }
+      },
+      {
+        "id": 31,
+        "name": "Lucas Stewart",
+        "marks": {
+          "maths": 89,
+          "science": 90,
+          "english": 88
+        }
+      },
+      {
+        "id": 32,
+        "name": "Lily Brown",
+        "marks": {
+          "maths": 83,
+          "science": 86,
+          "english": 84
+        }
+      },
+      {
+        "id": 33,
+        "name": "Jackson Evans",
+        "marks": {
+          "maths": 91,
+          "science": 92,
+          "english": 90
+        }
+      },
+      {
+        "id": 34,
+        "name": "Sophie Cooper",
+        "marks": {
+          "maths": 77,
+          "science": 81,
+          "english": 78
+        }
+      },
+      {
+        "id": 35,
+        "name": "Benjamin Lee",
+        "marks": {
+          "maths": 85,
+          "science": 88,
+          "english": 86
+        }
+      },
+      {
+        "id": 36,
+        "name": "Aria Robinson",
+        "marks": {
+          "maths": 94,
+          "science": 95,
+          "english": 92
+        }
+      },
+      {
+        "id": 37,
+        "name": "Henry Ward",
+        "marks": {
+          "maths": 76,
+          "science": 78,
+          "english": 75
+        }
+      },
+      {
+        "id": 38,
+        "name": "Harper Wright",
+        "marks": {
+          "maths": 84,
+          "science": 87,
+          "english": 85
+        }
+      },
+      {
+        "id": 39,
+        "name": "Joseph Hill",
+        "marks": {
+          "maths": 89,
+          "science": 91,
+          "english": 88
+        }
+      },
+      {
+        "id": 40,
+        "name": "Scarlett Martin",
+        "marks": {
+          "maths": 82,
+          "science": 85,
+          "english": 81
+        }
+      },
+      {
+        "id": 41,
+        "name": "Levi Carter",
+        "marks": {
+          "maths": 88,
+          "science": 90,
+          "english": 87
+        }
+      },
+      {
+        "id": 42,
+        "name": "Addison Lewis",
+        "marks": {
+          "maths": 91,
+          "science": 92,
+          "english": 90
+        }
+      },
+      {
+        "id": 43,
+        "name": "Mila Thompson",
+        "marks": {
+          "maths": 76,
+          "science": 79,
+          "english": 75
+        }
+      },
+      {
+        "id": 44,
+        "name": "Lucas Hill",
+        "marks": {
+          "maths": 85,
+          "science": 88,
+          "english": 86
+        }
+      },
+      {
+        "id": 45,
+        "name": "Avery Wright",
+        "marks": {
+          "maths": 94,
+          "science": 95,
+          "english": 92
+        }
+      },
+      {
+        "id": 46,
+        "name": "Mason Davis",
+        "marks": {
+          "maths": 76,
+          "science": 78,
+          "english": 75
+        }
+      },
+      {
+        "id": 47,
+        "name": "Ella Wilson",
+        "marks": {
+          "maths": 84,
+          "science": 87,
+          "english": 85
+        }
+      },
+      {
+        "id": 48,
+        "name": "Jack Evans",
+        "marks": {
+          "maths": 89,
+          "science": 91,
+          "english": 88
+        }
+      },
+      {
+        "id": 49,
+        "name": "Hannah Ward",
+        "marks": {
+          "maths": 82,
+          "science": 85,
+          "english": 81
+        }
+      },
+      {
+        "id": 50,
+        "name": "Andrew Baker",
+        "marks": {
+          "maths": 88,
+          "science": 90,
+          "english": 87
+        }
+      }
+    ]
+  }
+  
